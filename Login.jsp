@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="css/normalize.css">
 
     <link rel="stylesheet" href="css/style_login.css">
+    
+    <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+
+  <script src="js/index.js"></script>
 
 </head>
 
@@ -131,9 +135,6 @@ return false;
 }
 </script>
 
-  <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
-
-  <script src="js/index.js"></script>
 
 </body>
 
